@@ -33,6 +33,7 @@
 		7140E31023B9EC6500C7532F /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7140E30F23B9EC6500C7532F /* LandmarkList.swift */; };
 		71CE61A123BAED9900136242 /* charleyrivers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 71CE61A023BAED9900136242 /* charleyrivers.jpg */; };
 		71CE61A323BAEDA300136242 /* hiddenlake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 71CE61A223BAEDA300136242 /* hiddenlake.jpg */; };
+		71CE61A523BB0D1200136242 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71CE61A423BB0D1200136242 /* UserData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -64,6 +65,7 @@
 		7140E30F23B9EC6500C7532F /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 		71CE61A023BAED9900136242 /* charleyrivers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = charleyrivers.jpg; sourceTree = "<group>"; };
 		71CE61A223BAEDA300136242 /* hiddenlake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = hiddenlake.jpg; path = ../../../../../Downloads/HandlingUserInput/StartingPoint/Landmarks/Landmarks/Resources/hiddenlake.jpg; sourceTree = "<group>"; };
+		71CE61A423BB0D1200136242 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +126,7 @@
 			children = (
 				7140E2EE23B9E60F00C7532F /* Landmark.swift */,
 				7140E2F023B9E70200C7532F /* Data.swift */,
+				71CE61A423BB0D1200136242 /* UserData.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 				7140E2EA23B9DEA300C7532F /* MapView.swift in Sources */,
 				7140E2D623B9D51700C7532F /* SceneDelegate.swift in Sources */,
 				7140E2D823B9D51700C7532F /* LandmarkDetail.swift in Sources */,
+				71CE61A523BB0D1200136242 /* UserData.swift in Sources */,
 				7140E2F123B9E70200C7532F /* Data.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
