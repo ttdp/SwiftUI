@@ -25,13 +25,14 @@
 		7140E30123B9EA3300C7532F /* chilkoottrail.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7140E2FC23B9EA3200C7532F /* chilkoottrail.jpg */; };
 		7140E30223B9EA3300C7532F /* icybay.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7140E2FD23B9EA3300C7532F /* icybay.jpg */; };
 		7140E30323B9EA3300C7532F /* chincoteague.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7140E2FE23B9EA3300C7532F /* chincoteague.jpg */; };
-		7140E30423B9EA3300C7532F /* hiddenlake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7140E2FF23B9EA3300C7532F /* hiddenlake.jpg */; };
 		7140E30623B9EA3900C7532F /* rainbowlake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7140E30523B9EA3900C7532F /* rainbowlake.jpg */; };
 		7140E30823B9EA3E00C7532F /* stmarylake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7140E30723B9EA3E00C7532F /* stmarylake.jpg */; };
 		7140E30C23B9EA4500C7532F /* umbagog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7140E30923B9EA4500C7532F /* umbagog.jpg */; };
 		7140E30D23B9EA4500C7532F /* twinlake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7140E30A23B9EA4500C7532F /* twinlake.jpg */; };
 		7140E30E23B9EA4500C7532F /* yukon_charleyrivers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7140E30B23B9EA4500C7532F /* yukon_charleyrivers.jpg */; };
 		7140E31023B9EC6500C7532F /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7140E30F23B9EC6500C7532F /* LandmarkList.swift */; };
+		71CE61A123BAED9900136242 /* charleyrivers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 71CE61A023BAED9900136242 /* charleyrivers.jpg */; };
+		71CE61A323BAEDA300136242 /* hiddenlake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 71CE61A223BAEDA300136242 /* hiddenlake.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,13 +56,14 @@
 		7140E2FC23B9EA3200C7532F /* chilkoottrail.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chilkoottrail.jpg; sourceTree = "<group>"; };
 		7140E2FD23B9EA3300C7532F /* icybay.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = icybay.jpg; sourceTree = "<group>"; };
 		7140E2FE23B9EA3300C7532F /* chincoteague.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chincoteague.jpg; sourceTree = "<group>"; };
-		7140E2FF23B9EA3300C7532F /* hiddenlake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hiddenlake.jpg; sourceTree = "<group>"; };
 		7140E30523B9EA3900C7532F /* rainbowlake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rainbowlake.jpg; sourceTree = "<group>"; };
 		7140E30723B9EA3E00C7532F /* stmarylake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stmarylake.jpg; sourceTree = "<group>"; };
 		7140E30923B9EA4500C7532F /* umbagog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = umbagog.jpg; sourceTree = "<group>"; };
 		7140E30A23B9EA4500C7532F /* twinlake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = twinlake.jpg; sourceTree = "<group>"; };
 		7140E30B23B9EA4500C7532F /* yukon_charleyrivers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yukon_charleyrivers.jpg; sourceTree = "<group>"; };
 		7140E30F23B9EC6500C7532F /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
+		71CE61A023BAED9900136242 /* charleyrivers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = charleyrivers.jpg; sourceTree = "<group>"; };
+		71CE61A223BAEDA300136242 /* hiddenlake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = hiddenlake.jpg; path = ../../../../../Downloads/HandlingUserInput/StartingPoint/Landmarks/Landmarks/Resources/hiddenlake.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,18 +131,19 @@
 		7140E2F223B9E72500C7532F /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				71CE61A023BAED9900136242 /* charleyrivers.jpg */,
 				7140E2FC23B9EA3200C7532F /* chilkoottrail.jpg */,
 				7140E2FE23B9EA3300C7532F /* chincoteague.jpg */,
+				7140E2FD23B9EA3300C7532F /* icybay.jpg */,
+				7140E2FB23B9EA3200C7532F /* lakemcdonald.jpg */,
+				71CE61A223BAEDA300136242 /* hiddenlake.jpg */,
 				7140E30523B9EA3900C7532F /* rainbowlake.jpg */,
+				7140E2F923B9EA2200C7532F /* silversalmoncreek.jpg */,
 				7140E30723B9EA3E00C7532F /* stmarylake.jpg */,
-				7140E2FF23B9EA3300C7532F /* hiddenlake.jpg */,
+				7140E2F723B9E9B500C7532F /* turtlerock.jpg */,
 				7140E30A23B9EA4500C7532F /* twinlake.jpg */,
 				7140E30923B9EA4500C7532F /* umbagog.jpg */,
 				7140E30B23B9EA4500C7532F /* yukon_charleyrivers.jpg */,
-				7140E2FD23B9EA3300C7532F /* icybay.jpg */,
-				7140E2FB23B9EA3200C7532F /* lakemcdonald.jpg */,
-				7140E2F723B9E9B500C7532F /* turtlerock.jpg */,
-				7140E2F923B9EA2200C7532F /* silversalmoncreek.jpg */,
 				7140E2F323B9E73D00C7532F /* landmarkData.json */,
 			);
 			path = Resources;
@@ -229,14 +232,15 @@
 				7140E30823B9EA3E00C7532F /* stmarylake.jpg in Resources */,
 				7140E2E023B9D51700C7532F /* LaunchScreen.storyboard in Resources */,
 				7140E30D23B9EA4500C7532F /* twinlake.jpg in Resources */,
+				71CE61A123BAED9900136242 /* charleyrivers.jpg in Resources */,
 				7140E2F423B9E73D00C7532F /* landmarkData.json in Resources */,
 				7140E30323B9EA3300C7532F /* chincoteague.jpg in Resources */,
-				7140E30423B9EA3300C7532F /* hiddenlake.jpg in Resources */,
 				7140E2DD23B9D51700C7532F /* Preview Assets.xcassets in Resources */,
 				7140E2FA23B9EA2200C7532F /* silversalmoncreek.jpg in Resources */,
 				7140E2DA23B9D51700C7532F /* Assets.xcassets in Resources */,
 				7140E30223B9EA3300C7532F /* icybay.jpg in Resources */,
 				7140E30E23B9EA4500C7532F /* yukon_charleyrivers.jpg in Resources */,
+				71CE61A323BAEDA300136242 /* hiddenlake.jpg in Resources */,
 				7140E2F823B9E9B500C7532F /* turtlerock.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
