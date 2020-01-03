@@ -33,7 +33,7 @@ struct ProfileHost: View {
                 ProfileEditor(profile: $draftProfile)
                     .onAppear() {
                         self.draftProfile = self.userData.profile
-                    }
+                }
                 .onDisappear() {
                     self.userData.profile = self.draftProfile
                 }
