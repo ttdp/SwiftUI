@@ -12,7 +12,6 @@ import UIKit
 struct PageViewController: UIViewControllerRepresentable {
     
     var controllers: [UIViewController]
-    
     @Binding var currentPage: Int
     
     func makeCoordinator() -> Coordinator {
@@ -23,6 +22,7 @@ struct PageViewController: UIViewControllerRepresentable {
         let pageViewController = UIPageViewController(transitionStyle: .scroll, navigationOrientation: .horizontal)
         pageViewController.dataSource = context.coordinator
         pageViewController.delegate = context.coordinator
+        
         return pageViewController
     }
     

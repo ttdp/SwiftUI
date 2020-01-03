@@ -134,21 +134,7 @@
         },
         "imageName": "rainbowlake"
     },
-    {
-        "name": "Hidden Lake",
-        "category": "Lakes",
-        "city": "Newhalem",
-        "state": "Washington",
-        "id": 1010,
-        "isFeatured": false,
-        "isFavorite": false,
-        "park": "North Cascades National Park",
-        "coordinates": {
-            "longitude": -121.17799,
-            "latitude": 48.495442
-        },
-        "imageName": "hiddenlake"
-    },
+    
     {
         "name": "Chincoteague",
         "category": "Rivers",
@@ -170,7 +156,7 @@
         "city": "Errol",
         "state": "New Hampshire",
         "id": 1012,
-        "isFeatured": true,
+        "isFeatured": false,
         "isFavorite": false,
         "park": "Umbagog National Wildlife Refuge",
         "coordinates": {
