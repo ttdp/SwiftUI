@@ -83,6 +83,7 @@
 		7158BE4823BF2CF500948CA7 /* WatchMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7158BE4723BF2CF500948CA7 /* WatchMapView.swift */; };
 		7158BE4A23BF2D2400948CA7 /* hiddenlake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7158BE4923BF2D2400948CA7 /* hiddenlake.jpg */; };
 		7158BE4B23BF2D2C00948CA7 /* hiddenlake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7158BE4923BF2D2400948CA7 /* hiddenlake.jpg */; };
+		71A2F67323C2B8F9004D08B6 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7140E30F23B9EC6500C7532F /* LandmarkList.swift */; };
 		71CE61A123BAED9900136242 /* charleyrivers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 71CE61A023BAED9900136242 /* charleyrivers.jpg */; };
 		71CE61A523BB0D1200136242 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71CE61A423BB0D1200136242 /* UserData.swift */; };
 		71CE61A823BB147200136242 /* Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71CE61A723BB147200136242 /* Badge.swift */; };
@@ -386,8 +387,8 @@
 				7158BE1F23BF290600948CA7 /* Info.plist */,
 				7158BE2023BF290600948CA7 /* PushNotificationPayload.apns */,
 				7158BE1C23BF290600948CA7 /* Preview Content */,
-				7158BE4523BF2AA900948CA7 /* WatchLandmarkDetail.swift */,
 				7158BE4723BF2CF500948CA7 /* WatchMapView.swift */,
+				7158BE4523BF2AA900948CA7 /* WatchLandmarkDetail.swift */,
 			);
 			path = "WatchLandmarks Extension";
 			sourceTree = "<group>";
@@ -625,6 +626,7 @@
 				7158BE4823BF2CF500948CA7 /* WatchMapView.swift in Sources */,
 				7158BE2D23BF29B500948CA7 /* Landmark.swift in Sources */,
 				7158BE1323BF290500948CA7 /* HostingController.swift in Sources */,
+				71A2F67323C2B8F9004D08B6 /* LandmarkList.swift in Sources */,
 				7158BE1123BF290500948CA7 /* ContentView.swift in Sources */,
 				7158BE2F23BF29B500948CA7 /* UserData.swift in Sources */,
 				7158BE3223BF29B500948CA7 /* CircleImage.swift in Sources */,
